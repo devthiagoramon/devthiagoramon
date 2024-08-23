@@ -1,7 +1,7 @@
 # Hi there, my name's Thiago Ramon 👋
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZxNWpzMWl3bXg1aXg0MnNnaWV5ZzJzcDBlbG5lNXRhNHh4c2N1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250" height="200"/>
 <h3>I'm a full stack developer who loves Java ☕</h3>
-<a>You're welcome to sse my profile and my projects. A pleasure to see you here.</a>
+<a>You're welcome to see my profile and my projects. A pleasure to see you here.</a>
 
 ## My knowledges
 
